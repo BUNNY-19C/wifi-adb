@@ -1,5 +1,0 @@
-
-/your_project_folder
-    ├── app.py           (Flask 后端代码)
-    └── templates/
-        └── index.html   (前端界面代码)
